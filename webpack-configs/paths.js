@@ -36,6 +36,6 @@ module.exports = {
   appPath: resolveApp("."),
   appBuild: resolveApp("dist"),
   pluginIndex: resolveModule(resolveApp, "./src/plugin/index"),
-  uiIndex: resolveModule(resolveApp, "./src/index"),
-  uiHtml: resolveApp("./src/index.html"),
+  uiIndex: resolveModule(resolveApp, "./src/ui/index"),
+  uiHtml: resolveApp("./src/ui/index.html"),
 };

@@ -3,9 +3,9 @@ import { MemoryRouter, Routes, Route } from "react-router-dom";
 
 import Page1 from "./page1";
 import Page2 from "./page2";
-import "./main.css";
+import "./app.css";
 
-function Plugin() {
+function UIApp() {
   return (
     <MemoryRouter initialEntries={["/page1"]}>
       <Routes>
@@ -16,4 +16,4 @@ function Plugin() {
   );
 }
 
-export default Plugin;
+export default UIApp;
