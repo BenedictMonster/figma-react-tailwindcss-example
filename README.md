@@ -9,6 +9,8 @@
 
 ### Build the plugin
 
+Clone this project, and then...
+
 To install dependencies:
 
 ```
