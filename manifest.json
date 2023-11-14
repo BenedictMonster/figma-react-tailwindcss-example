@@ -1,0 +1,8 @@
+{
+  "api": "1.0.0",
+  "editorType": ["figma"],
+  "id": "figma-react-tailwindcss-example",
+  "name": "Figma React Tailwindcss Example",
+  "main": "dist/plugin.js",
+  "ui": "dist/ui.html"
+}
