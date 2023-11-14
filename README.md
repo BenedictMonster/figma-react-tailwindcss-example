@@ -1,1 +1,2 @@
-# figma-react-tailwindcss-example
+# Figma React Tailwindcss Example
+
