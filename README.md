@@ -27,8 +27,6 @@ To watch for code changes and rebuild the plugin automatically:
 $ yarn run watch
 ```
 
-If a plugin doesn't reload itself on Figma, press `command + option + p` to re-run the last plugin.
-
 Upgrade packages
 
 ```
@@ -73,5 +71,6 @@ Related to Tailwind CSS
 ## Problems
 
 - When Hot-Reload doesn't work
+  - If a plugin doesn't reload itself on Figma, press `command + option + p` to re-run the last plugin. -> This works for me. But I'm not satisfied with this solution...
   - https://forum.figma.com/t/hot-reload-not-working-with-react/46831 -> This doesn't work for me.
   - https://www.reactjunkie.com/react-graphql-figma-plugin -> I didn't test yet.
