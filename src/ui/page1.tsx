@@ -33,7 +33,7 @@ function Page1({}) {
   }, [option]);
 
   return (
-    <div>
+    <div className="px-4 py-1">
       <Navigation />
       <h1 className="text-xl font-bold">Page 1</h1>
       <label className="block">
