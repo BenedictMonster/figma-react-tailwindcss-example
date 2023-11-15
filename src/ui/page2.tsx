@@ -1,5 +1,4 @@
-import React, { useEffect } from "react";
-import { useState } from "react";
+import React from "react";
 import Navigation from "./navigation";
 
 function Page2({}) {

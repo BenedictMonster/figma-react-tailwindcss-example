@@ -24,9 +24,10 @@ function Page1({}) {
 
     window.onmessage = (event) => {
       const msg = event.data.pluginMessage;
-      if (msg.type === "optionStored") {
-        console.log("optionStored");
-        console.log(msg);
+      switch (msg.type) {
+        case "optionStored":
+          console.log("optionStored");
+          console.log(msg);
       }
     };
   }, [option]);
