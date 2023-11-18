@@ -1,4 +1,4 @@
-# Figma React Tailwindcss Example
+# Figma Plugin React Tailwindcss Example
 
 An example project for the Figma plugin with React.js, React Router, and Tailwind CSS.
 
