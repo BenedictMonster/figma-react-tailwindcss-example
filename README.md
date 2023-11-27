@@ -2,7 +2,7 @@
 
 An example project for the Figma plugin with React.js, React Router, and Tailwind CSS.
 
-<img src="https://github.com/BenedictMonster/figma-react-tailwindcss-example/blob/main/img/Screenshot-2023-11-15.png" width="300" alt="A screenshot of this plugin.">
+<img src="https://github.com/BenedictMonster/figma-react-tailwindcss-example/blob/main/img/Screenshot-2023-11-28.gif" width="300" alt="A screenshot of this plugin.">
 
 ## Development Guide
 
