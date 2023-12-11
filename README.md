@@ -1,6 +1,7 @@
 # Figma Plugin React Tailwindcss Example
 
 An example project for the Figma plugin with React.js, React Router, and Tailwind CSS.
+Refer to [this post](https://benedictmonster.wordpress.com/2023/11/14/an-example-figma-plugin-with-react-js-react-router-and-tailwindcss/) for more information.
 
 <img src="https://github.com/BenedictMonster/figma-react-tailwindcss-example/blob/main/img/Screenshot-2023-11-28.gif" width="300" alt="A screenshot of this plugin.">
 
